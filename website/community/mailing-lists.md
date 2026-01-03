@@ -56,8 +56,8 @@ is committed.
 
 ## Official Apache Archive
 
-* http://mail-archives.apache.org/mod_mbox/mahout-dev/
-* http://mail-archives.apache.org/mod_mbox/mahout-user/
+* https://mail-archives.apache.org/mod_mbox/mahout-dev/
+* https://mail-archives.apache.org/mod_mbox/mahout-user/
 
 Please note the inclusion of a link to an archive does not imply an
 endorsement of that company by any of the committers of Mahout, the Lucene
